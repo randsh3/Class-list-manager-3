@@ -1,4 +1,4 @@
-# Class List Manager - 
+# Class List Manager 
 
 A Python program that manages a class list using lists and strings.
 | Student | Function |
